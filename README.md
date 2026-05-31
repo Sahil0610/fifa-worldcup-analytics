@@ -21,3 +21,28 @@ Raw Data → Cleaning → Feature Engineering → SQL Database → Power BI Dash
 
 ## Status
 Work in progress (Step-by-step build)
+
+# FIFA World Cup Analytics
+
+## Project Goal
+Analyze FIFA World Cup history using:
+
+- Python
+- Pandas
+- NumPy
+- SQL Server
+- Power BI
+
+## Completed
+Data Profiling
+Data Cleaning
+Feature Engineering
+SQL Server ETL
+SQL Analytics
+Dashboard Reporting View
+
+## Upcoming
+
+Power BI Dashboard Development
+Advanced Analytics
+FIFA 2026 Prediction Phase
